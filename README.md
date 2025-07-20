@@ -4,6 +4,13 @@
   【2】API自动化测试平台
   【3】性能测试
   【4】AI 自动化测试
+# Redis 学习 
+Redis 官网：https://redis.io/
+Redis 支持很多数据结构：字符串、列表、集合、哈希
+【命令】rpush  lpush 列表操作
+【命令】
+
+  
   
 
 
