@@ -5,8 +5,10 @@
   【3】性能测试
   【4】AI 自动化测试
 # Redis 学习 
-Redis 官网：https://redis.io/
-Redis 支持很多数据结构：字符串、列表、集合、哈希
+【1】Redis 官网：https://redis.io/
+【2】Redis 支持很多数据结构：字符串、列表、集合、哈希
+【3】字符串操作命令：set ，get
+【4】列表操作命令：rpush 、lpush
 【命令】rpush  lpush 列表操作
 【命令】
 
